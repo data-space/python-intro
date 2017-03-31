@@ -51,3 +51,9 @@ Step 4: __Jupyter__
 1. Run the Anaconda application on your computer
 1. Run Jupyter from the Anaconda application
 1. From Jupyter browse to the tutorial directory
+1. Select `Python 3` from the `New` menu in the upper right of the Jupyter browser window
+1. Demo: command and edit modes; markdown and code cells; running code cells; formatting markdown cells; cut, copy and paste for cells
+
+Step 5: __Python essentials__
+
+1. 
