@@ -1,4 +1,4 @@
-# Introduction to Python
+# Introduction to Python - A Step at a Time
 
 #### Find this page at https://github.com/data-space/python-intro
 
@@ -8,7 +8,7 @@ This Python tutorial has several steps:
 1. __Datacamp__: Intro to Python for Data Science
 1. __Install__: Anaconda 
 1. __Jupyter__: web based notebook interface to Python
-1. __Python commands and libraries__: learn to use the essential basics
+1. __Python essentials__: libraries `pandas` and `numpy`
 
 https://www.datacamp.com/courses/intro-to-python-for-data-science
 
@@ -45,3 +45,9 @@ Step 3: __Install Anaconda__
 
 1. Run the installer
     - On Mac, choose "Install on a specific disk..." and then choose "Macintosh HD"
+    
+Step 4: __Jupyter__
+
+1. Run the Anaconda application on your computer
+1. Run Jupyter from the Anaconda application
+1. From Jupyter browse to the tutorial directory
