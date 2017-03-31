@@ -10,16 +10,13 @@ This Python tutorial has several steps:
 1. __Jupyter__: web based notebook interface to Python
 1. __Python essentials__: libraries `pandas` and `numpy`
 
-https://www.datacamp.com/courses/intro-to-python-for-data-science
-
 Step 1: __Download__
 
-1. Create a directory called `python-intro` for today's material (that you can easily find)
-1. Download all of the files from https://github.com/data-space/python-intro 
-1. Copy all of these files (from your `Downloads` directory) into `python-intro`
 1. Download Anaconda: https://www.continuum.io/downloads
     - Select the icon or the tab that corresponds to your operating system 
     - Select the "GRAPHICAL INSTALLER (424MB)" for Python 3.6 version
+1. Create a directory called `python-intro` for today's material (that you can easily find)
+1. Download all of the files listed at the top of this page into the `python-intro` directory
     
 Step 2: __Datacamp__
 
@@ -27,12 +24,11 @@ Step 2: __Datacamp__
     - Select "Courses" along the top 
     - Select "Intro to Python for Data Science"
     - Select "Hello Python!" (video introduction to Python)
-1. Select "The Python Interface". Notice four sections of the page:
-    - Background: what you will learn from this page
-    - Instructions: your task for this page, hints and the answer
-    - Console: you can run any Python code here (and see the result)
-    - Editor: type your answers here. Click "Submit Answer" to check your answer
-    - Try the forward and back arrows and the Course Outline link at the top center 
+1. Select "The Python Interface". Try the forward and back arrows and the Course Outline link at the top center. Notice the 4 sections of this page:
+    - __Background__: what you will learn from this page
+    - __Instructions__: your task for this page, hints and the answer
+    - __Console__: you can run any Python code here (and see the result)
+    - __Editor__: type your answers here. Click "Submit Answer" to check your answer
 1. Select "Other variable types"
     - There are four types of values: `int`, `float`, `str` and `bool`
     - The `type` function returns the type of a value or variable
@@ -56,4 +52,4 @@ Step 4: __Jupyter__
 
 Step 5: __Python essentials__
 
-1. 
+1. Open `pandas.ipynb` with the Jupyter browser
